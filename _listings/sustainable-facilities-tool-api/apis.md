@@ -24,7 +24,7 @@ apis:
   tags: Bundles
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/bundles/master/_listings/sustainable-facilities-tool-api/building-systems-system-bundles-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/bundles/master/_listings/sustainable-facilities-tool-api/building-systems-parameter-system-bundles-get.md
 x-common:
 - type: x-developer
   url: https://sftool.gov/developers
