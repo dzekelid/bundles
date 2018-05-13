@@ -32,7 +32,33 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/bundles/master/_listings/aws-workspaces/action-describeworkspacebundles-get.md
+- name: AWS WorkSpaces Service API Describe Workspace Bundles
+  description: Obtains information about the WorkSpace bundles that are available
+    to your account in the specified region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkSpaces.png
+  humanURL: https://aws.amazon.com/workspaces/
+  baseURL: http:://{host}//
+  tags: Bundles
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/bundles/master/_listings/aws-workspaces/action-describeworkspacebundles-get.md
 x-common:
+- type: x-documentation
+  url: http://docs.aws.amazon.com/workspaces/latest/api/api-reference.html
+- type: x-faq
+  url: https://aws.amazon.com/workspaces/faqs/
+- type: x-forum
+  url: https://forums.aws.amazon.com/forum.jspa?forumID=164
+- type: x-pricing
+  url: https://aws.amazon.com/workspaces/pricing/
+- type: x-testimonials
+  url: https://aws.amazon.com/workspaces/testimonials/
+- type: x-webinars
+  url: https://aws.amazon.com/workspaces/resources/#webinars
+- type: x-website
+  url: https://aws.amazon.com/workspaces/
+- type: x-white-papers
+  url: https://aws.amazon.com/workspaces/resources/#whitepapers
 - type: x-documentation
   url: http://docs.aws.amazon.com/workspaces/latest/api/api-reference.html
 - type: x-faq
