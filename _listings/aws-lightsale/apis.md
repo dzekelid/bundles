@@ -28,7 +28,22 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/bundles/master/_listings/aws-lightsale/action-getbundles-get.md
+- name: Amazon Lightsale API Get Bundles
+  description: Returns the list of bundles that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-lightsail.png
+  humanURL: https://amazonlightsail.com/
+  baseURL: http:://{host}//
+  tags: Bundles
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/bundles/master/_listings/aws-lightsale/action-getbundles-get.md
 x-common:
+- type: x-documentation
+  url: https://docs.aws.amazon.com/lightsail/2016-11-28/api-reference/Welcome.html?fid=6DDA37DF97F08F8B-23761D4A79F7B1E
+- type: x-pricing
+  url: https://amazonlightsail.com/pricing/
+- type: x-website
+  url: https://amazonlightsail.com/
 - type: x-documentation
   url: https://docs.aws.amazon.com/lightsail/2016-11-28/api-reference/Welcome.html?fid=6DDA37DF97F08F8B-23761D4A79F7B1E
 - type: x-pricing
