@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Lightsale API
+  title: Amazon Lightsale API Get Bundles
   version: 1.0.0
+  description: Returns the list of bundles that are available for purchase.
 schemes:
 - http
 produces:
