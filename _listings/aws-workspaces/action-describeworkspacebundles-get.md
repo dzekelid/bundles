@@ -1,8 +1,10 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS WorkSpaces Service API
+  title: AWS WorkSpaces Service API Describe Workspace Bundles
   version: 1.0.0
+  description: Obtains information about the WorkSpace bundles that are available
+    to your account in the specified region.
 schemes:
 - http
 produces:
